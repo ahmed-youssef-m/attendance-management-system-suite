@@ -1,0 +1,4 @@
+<svg width="200px" height="200px" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+<style>.c{fill:none;stroke:#0a0;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;}</style>
+<circle class="c" cx="20" cy="20" r="18" stroke-dasharray="105 13" stroke-dashoffset="10"/>
+<polyline class="c" points="11,17 19,25 38,6"/></svg>
